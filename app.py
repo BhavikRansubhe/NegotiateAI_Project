@@ -4,6 +4,7 @@ import json
 import os
 import tempfile
 import zipfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import asdict, dataclass
 from io import BytesIO
 from pathlib import Path
@@ -67,6 +68,10 @@ with st.sidebar:
     lookup_agent = st.toggle("Use agentic UOM lookup for ambiguous lines", value=True)
 
     st.divider()
+    st.subheader("Performance")
+    num_workers = st.slider("Parallel workers", min_value=1, max_value=4, value=1, help="Number of invoices to process in parallel (1-4)")
+
+    st.divider()
     st.subheader("LLM key status")
     if _has_llm_key():
         st.success("API key detected in environment.")
@@ -96,19 +101,49 @@ if clear_btn:
 
 if run_btn and uploads:
     ui_results: list[_UiInvoice] = []
-    with st.spinner("Processing PDFs…"):
+    
+    def _process_one_pdf(up) -> _UiInvoice:
+        """Process a single uploaded PDF."""
         with tempfile.TemporaryDirectory() as td:
             tmp_dir = Path(td)
+            tmp_pdf = tmp_dir / up.name
+            tmp_pdf.write_bytes(up.getvalue())
+            r = process_invoice_pdf(
+                tmp_pdf,
+                use_lookup_agent=lookup_agent,
+                use_llm_fallback=llm_fallback,
+                use_llm_primary=llm_primary,
+            )
+            return _UiInvoice(filename=up.name, result=r.model_dump())
+    
+    with st.spinner(f"Processing {len(uploads)} PDF(s) with {num_workers} worker(s)…"):
+        if num_workers == 1:
+            # Sequential processing
             for up in uploads:
-                tmp_pdf = tmp_dir / up.name
-                tmp_pdf.write_bytes(up.getvalue())
-                r = process_invoice_pdf(
-                    tmp_pdf,
-                    use_lookup_agent=lookup_agent,
-                    use_llm_fallback=llm_fallback,
-                    use_llm_primary=llm_primary,
-                )
-                ui_results.append(_UiInvoice(filename=up.name, result=r.model_dump()))
+                ui_results.append(_process_one_pdf(up))
+        else:
+            # Parallel processing - preserve upload order
+            results_dict: dict[int, _UiInvoice] = {}
+            with ThreadPoolExecutor(max_workers=num_workers) as executor:
+                future_to_idx = {executor.submit(_process_one_pdf, up): i for i, up in enumerate(uploads)}
+                for future in as_completed(future_to_idx):
+                    idx = future_to_idx[future]
+                    try:
+                        results_dict[idx] = future.result()
+                    except Exception as e:
+                        up = uploads[idx]
+                        error_result = _UiInvoice(
+                            filename=up.name,
+                            result={
+                                "source_file": up.name,
+                                "supplier_name": "Error",
+                                "line_items": [],
+                                "raw_metadata": {"error": str(e)},
+                            },
+                        )
+                        results_dict[idx] = error_result
+            # Sort by index to preserve upload order
+            ui_results = [results_dict[i] for i in sorted(results_dict.keys())]
 
     st.session_state["ui_results"] = [asdict(x) for x in ui_results]
 
