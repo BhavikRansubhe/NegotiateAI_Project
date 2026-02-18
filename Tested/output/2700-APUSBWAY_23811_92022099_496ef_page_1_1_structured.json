@@ -1,0 +1,64 @@
+{
+  "source_file": "2700-APUSBWAY_23811_92022099_496ef_page_1_1.pdf",
+  "supplier_name": "MSC Industrial Supply Co.",
+  "line_items": [
+    {
+      "supplier_name": "MSC Industrial Supply Co.",
+      "item_description": "SMALL 1/PR COTTON/PLY STRING KNIT GLOVE",
+      "manufacturer_part_number": "35-C410/S",
+      "original_uom": "EA",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.185,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "MSC Industrial Supply Co.",
+      "item_description": "CLR LENS CLR FRAME INTRUDER SAFETY GLASSES",
+      "manufacturer_part_number": "S4110S",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.73,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "MSC Industrial Supply Co.",
+      "item_description": "LARGE 1/PR MEN'S CTN/PLY STRING KNIT GLOVE",
+      "manufacturer_part_number": "35-C410/L",
+      "original_uom": "EA",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.2,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "MSC Industrial Supply Co.",
+      "item_description": "BOX 100 PR CORDED MOLDEX EARPLUGS",
+      "manufacturer_part_number": "6654",
+      "original_uom": "EA",
+      "detected_pack_quantity": 200,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.1482,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "MSC Industrial Supply Co.",
+      "item_description": "3.5 ML BLK LRG 100/BX ONYX POWDER FREE NITRILE EXAM GLOVE",
+      "manufacturer_part_number": "N643",
+      "original_uom": "EA",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.1737,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

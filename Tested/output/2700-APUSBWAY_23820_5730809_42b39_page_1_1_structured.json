@@ -1,0 +1,262 @@
+{
+  "source_file": "2700-APUSBWAY_23820_5730809_42b39_page_1_1.pdf",
+  "supplier_name": "Magid Glove and Safety Manufacturing",
+  "line_items": [
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "BLACK MESH BEARD COVERS",
+      "manufacturer_part_number": "BC924MSH-BK",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 6.8,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 9, BLACK FOAM NITRILE PALM",
+      "manufacturer_part_number": "GPD4169",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 5.35,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "RECYCLED POLY GLOVE, FOAM",
+      "manufacturer_part_number": "GP102VP9",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 1.08,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "NUISANCE DUST COMFORT MASK",
+      "manufacturer_part_number": "IR1901",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 6.85,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "DISPOSABLE FACE MASK, 3 LAYER",
+      "manufacturer_part_number": "MM005",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 3.6,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "DISP EAR PLUG W/CORD",
+      "manufacturer_part_number": "MXM30",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 29.27,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "MAGID LENS TOWELETTE",
+      "manufacturer_part_number": "M100D",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 7.15,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 10 HI-VIZ FOAM NITRILE",
+      "manufacturer_part_number": "SWHV100-10",
+      "original_uom": "DZ",
+      "detected_pack_quantity": 12,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.0833,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 11 HI-VIZ FOAM NITRILE",
+      "manufacturer_part_number": "SWHV100-11",
+      "original_uom": "DZ",
+      "detected_pack_quantity": 12,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.0833,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 7 HI-VIZ FOAM NITRILE",
+      "manufacturer_part_number": "SWHV100-7",
+      "original_uom": "DZ",
+      "detected_pack_quantity": 12,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.0833,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 8 HI-VIZ FOAM NITRILE",
+      "manufacturer_part_number": "SWHV100-8",
+      "original_uom": "DZ",
+      "detected_pack_quantity": 12,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.0833,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "SZ 9 HI-VIZ FOAM NITRILE",
+      "manufacturer_part_number": "SWHV100-9",
+      "original_uom": "DZ",
+      "detected_pack_quantity": 12,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.0833,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "MENS LIGHT WEIGHT KNIT GLOVES",
+      "manufacturer_part_number": "T132",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.22,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "KNIT GLOVES SIZE SMALL",
+      "manufacturer_part_number": "T132C",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.135,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "MENS CANVAS GLOVES",
+      "manufacturer_part_number": "T83",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.34,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "CANVAS GLOVES SIZE SMALL",
+      "manufacturer_part_number": "T83C",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.295,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "GEMSTONE SPEC CLEAR A/F LENS",
+      "manufacturer_part_number": "Y10CFAFC",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.87,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "GEMSTONE SPEC CLR A/F LENS TMP",
+      "manufacturer_part_number": "Y19CFAFC",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 1.275,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "GEMSTONE SPEC CLR FRM/CLR LENS",
+      "manufacturer_part_number": "Y20C",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.64,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "BLACK HAIRNET",
+      "manufacturer_part_number": "2020-BK",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 10.7,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "WHITE HAIRNET",
+      "manufacturer_part_number": "2020-WH",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 10.71,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "WHITE HAIRNET",
+      "manufacturer_part_number": "2424-WH",
+      "original_uom": "DP",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 9.9,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "Magid Glove and Safety Manufacturing",
+      "item_description": "JUMBO DBL PALM KNITWRIST GLOVE",
+      "manufacturer_part_number": "794JKW",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.81,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

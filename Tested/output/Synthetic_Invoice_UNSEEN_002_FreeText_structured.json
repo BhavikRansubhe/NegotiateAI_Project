@@ -1,0 +1,64 @@
+{
+  "source_file": "Synthetic_Invoice_UNSEEN_002_FreeText.pdf",
+  "supplier_name": "OMEGA SUPPLY CO.",
+  "line_items": [
+    {
+      "supplier_name": "OMEGA SUPPLY CO.",
+      "item_description": "Nitrile Gloves Blue XL",
+      "manufacturer_part_number": "A-9912",
+      "original_uom": "BX",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 22.5,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "OMEGA SUPPLY CO.",
+      "item_description": "Hair Net White",
+      "manufacturer_part_number": "HN-7788",
+      "original_uom": "CS",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 69.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "OMEGA SUPPLY CO.",
+      "item_description": "Foam Ear Plug",
+      "manufacturer_part_number": "EP-33",
+      "original_uom": "PK25",
+      "detected_pack_quantity": 25,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.516,
+      "confidence_score": 0.51,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "OMEGA SUPPLY CO.",
+      "item_description": "Jumbo Towels Roll",
+      "manufacturer_part_number": "TWL-900",
+      "original_uom": "RL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 54.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "OMEGA SUPPLY CO.",
+      "item_description": "Cleaner Spray 16 OZ",
+      "manufacturer_part_number": "CL-44",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 4.75,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

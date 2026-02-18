@@ -1,0 +1,64 @@
+{
+  "source_file": "Synthetic_Invoice_UNSEEN_004_OCRNoisy.pdf",
+  "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+  "line_items": [
+    {
+      "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+      "item_description": "Nitrile Gloves L 100/BX",
+      "manufacturer_part_number": "GL0V-77",
+      "original_uom": "BX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.235,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+      "item_description": "Bouffant Net 24in",
+      "manufacturer_part_number": "HAlR-990",
+      "original_uom": "CS",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 72.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+      "item_description": "Foam Earplugs",
+      "manufacturer_part_number": "EAR-22X",
+      "original_uom": "PK",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 9.8,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+      "item_description": "Surface Cleaner 32OZ",
+      "manufacturer_part_number": "CLN-44",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 6.2,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ALPHA MEDICAL & SAFETY SUPPLIES",
+      "item_description": "Shop Towel Roll",
+      "manufacturer_part_number": "TWL-500",
+      "original_uom": "RL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 58.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

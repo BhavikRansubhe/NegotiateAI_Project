@@ -1,0 +1,20 @@
+{
+  "source_file": "2700-APUSBWAY_36414_9577102206_c3a7d_1.pdf",
+  "supplier_name": "Grainger",
+  "line_items": [
+    {
+      "supplier_name": "Grainger",
+      "item_description": "ARC FLASH CLOTHING KIT,NAVY,2X",
+      "manufacturer_part_number": "ARC40KITNG-2X",
+      "original_uom": null,
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2890.2,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

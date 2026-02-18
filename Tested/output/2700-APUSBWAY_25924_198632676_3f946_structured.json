@@ -1,0 +1,108 @@
+{
+  "source_file": "2700-APUSBWAY_25924_198632676_3f946.pdf",
+  "supplier_name": "ULINE",
+  "line_items": [
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ULINE SAFETY GLASS WIPES",
+      "manufacturer_part_number": "S-19310",
+      "original_uom": "BX",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 8.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ULINE TOILET BOWL CLEANER - 32 OZ BOTTLE",
+      "manufacturer_part_number": "S-24321",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 3.5,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "REPLACEMENT HANDLE FOR DUST MOP - 64\", FIBERGLASS",
+      "manufacturer_part_number": "H-865-HANDLE",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 17.0,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ACRYLIC TAG HOLDER",
+      "manufacturer_part_number": "S-15228",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 8.0,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "NYLON BRUSH FOR 14\" COMPACT AUTO FLOOR SCRUBBER",
+      "manufacturer_part_number": "H-8041-BRUSH",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 176.0,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "JOB TICKET HOLDERS - 9 X 12\", RED",
+      "manufacturer_part_number": "S-2761R",
+      "original_uom": "CT",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 68.0,
+      "confidence_score": 0.77,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ULINE HEAVY DUTY WIPERS - JUMBO ROLL, RED",
+      "manufacturer_part_number": "S-13631R",
+      "original_uom": "RL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 59.0,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ULINE PAPER PLATES - 10 1/4\", HEAVYWEIGHT",
+      "manufacturer_part_number": "S-18499",
+      "original_uom": "BX",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 47.0,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ULINE",
+      "item_description": "ULINE PLASTIC UTENSIL COMBO KIT - HEAVYWEIGHT, CLEAR",
+      "manufacturer_part_number": "S-11691",
+      "original_uom": "BX",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 13.0,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

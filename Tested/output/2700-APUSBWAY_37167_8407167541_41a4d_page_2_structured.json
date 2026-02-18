@@ -1,0 +1,174 @@
+{
+  "source_file": "2700-APUSBWAY_37167_8407167541_41a4d_page_2.pdf",
+  "supplier_name": "CINTAS CORP",
+  "line_items": [
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "BLUE MD FM XLFINGER MED",
+      "manufacturer_part_number": "32830",
+      "original_uom": "BOX",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 24.35,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "ROLLER GAUZE 4IN NON-STER",
+      "manufacturer_part_number": "72240",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 1.84,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "READY-RIP 2IN",
+      "manufacturer_part_number": "82420",
+      "original_uom": "ROL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 3.83,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "READY-RIP 3IN",
+      "manufacturer_part_number": "82430",
+      "original_uom": "ROL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 5.03,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "LUBRICANT EYE DROPS",
+      "manufacturer_part_number": "130100",
+      "original_uom": "PAC",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 4.07,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "1/2 OZ 4 CT EYEWASH BOX",
+      "manufacturer_part_number": "130489",
+      "original_uom": "BOX",
+      "detected_pack_quantity": 4,
+      "canonical_base_uom": "CT",
+      "price_per_base_unit": 7.665,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "BURN RELIEF DRESSING 4\"X4\"",
+      "manufacturer_part_number": "163021",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 32.36,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "BURN RELIEF PACKET/ 6 PK",
+      "manufacturer_part_number": "163051",
+      "original_uom": "PAC",
+      "detected_pack_quantity": 6,
+      "canonical_base_uom": "PK",
+      "price_per_base_unit": 3.495,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "LENS/SCREEN WIPES 100/BX",
+      "manufacturer_part_number": "280020",
+      "original_uom": "BOX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.1,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "EARPLUG HW MAX W/CD 100/BX",
+      "manufacturer_part_number": "292000",
+      "original_uom": "BOX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.63,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "EARPLUG HW MAXLITE W/CD 100/BX",
+      "manufacturer_part_number": "292100",
+      "original_uom": "BOX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.58,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "GERMX 100CT WIPE DMPBN",
+      "manufacturer_part_number": "616676",
+      "original_uom": "BOX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "CT",
+      "price_per_base_unit": 0.1143,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "BOUFFANT SBP 21IN WHT CS/1000",
+      "manufacturer_part_number": "970321W",
+      "original_uom": "CS",
+      "detected_pack_quantity": 1000,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.073,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "BOUFFANT SBP 24IN BLU CS/1000",
+      "manufacturer_part_number": "970324B",
+      "original_uom": "CS",
+      "detected_pack_quantity": 1000,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.076,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "CINTAS CORP",
+      "item_description": "GLS SD APACHE CLR FRM",
+      "manufacturer_part_number": "CRSD110",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 2.5,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

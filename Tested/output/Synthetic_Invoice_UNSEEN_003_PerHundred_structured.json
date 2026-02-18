@@ -1,0 +1,53 @@
+{
+  "source_file": "Synthetic_Invoice_UNSEEN_003_PerHundred.pdf",
+  "supplier_name": "DELTA INDUSTRIAL DISTRIBUTORS",
+  "line_items": [
+    {
+      "supplier_name": "DELTA INDUSTRIAL DISTRIBUTORS",
+      "item_description": "Latex Gloves",
+      "manufacturer_part_number": "GLV-100X",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.29,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "DELTA INDUSTRIAL DISTRIBUTORS",
+      "item_description": "Cleaning Wipes",
+      "manufacturer_part_number": "WIP-100CT",
+      "original_uom": "CT",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.185,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "DELTA INDUSTRIAL DISTRIBUTORS",
+      "item_description": "Bouffant Hairnet",
+      "manufacturer_part_number": "HN-500",
+      "original_uom": "CS",
+      "detected_pack_quantity": 500,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.152,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "DELTA INDUSTRIAL DISTRIBUTORS",
+      "item_description": "Ear Plugs",
+      "manufacturer_part_number": "EP-5CT",
+      "original_uom": "CT",
+      "detected_pack_quantity": 5,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.61,
+      "confidence_score": 0.77,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}

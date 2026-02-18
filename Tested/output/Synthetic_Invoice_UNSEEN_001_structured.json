@@ -1,0 +1,97 @@
+{
+  "source_file": "Synthetic_Invoice_UNSEEN_001.pdf",
+  "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+  "line_items": [
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Nitrile Exam Gloves Blue L 100/BX",
+      "manufacturer_part_number": "GLV-8841",
+      "original_uom": "BX",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.245,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Bouffant Hair Net 24in Blue CS/1000",
+      "manufacturer_part_number": "HRN-2100",
+      "original_uom": "CS",
+      "detected_pack_quantity": 1000,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.076,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Industrial Surface Cleaner 32 OZ Bottle",
+      "manufacturer_part_number": "CLN-550",
+      "original_uom": "EA",
+      "detected_pack_quantity": 1,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 6.75,
+      "confidence_score": 0.85,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Foam Ear Plugs Corded PK10",
+      "manufacturer_part_number": "EAR-33X",
+      "original_uom": "PK10",
+      "detected_pack_quantity": 10,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.89,
+      "confidence_score": 0.51,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Lens Cleaning Wipes 100/DP",
+      "manufacturer_part_number": "WIP-990",
+      "original_uom": "DP",
+      "detected_pack_quantity": 100,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.12,
+      "confidence_score": 0.72,
+      "escalation_flag": false
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Heavyweight Paper Plates 10 1/4in",
+      "manufacturer_part_number": "PLT-450",
+      "original_uom": "CT",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 45.0,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Jumbo Shop Towels Roll Red",
+      "manufacturer_part_number": "TWL-778",
+      "original_uom": "RL",
+      "detected_pack_quantity": null,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 59.0,
+      "confidence_score": 0.68,
+      "escalation_flag": true
+    },
+    {
+      "supplier_name": "ACME INDUSTRIAL SUPPLIES LLC",
+      "item_description": "Cotton String Knit Gloves Small",
+      "manufacturer_part_number": "GLO-12S",
+      "original_uom": "PR",
+      "detected_pack_quantity": 2,
+      "canonical_base_uom": "EA",
+      "price_per_base_unit": 0.425,
+      "confidence_score": 0.81,
+      "escalation_flag": false
+    }
+  ],
+  "raw_metadata": {
+    "parser": "llm_primary"
+  }
+}
