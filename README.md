@@ -101,6 +101,20 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### Optional: Run the Web UI (Streamlit)
+
+This project also includes a lightweight web UI for uploading PDFs, running the pipeline, previewing line items, and downloading structured JSON.
+
+```bash
+# From the project root (same environment as the CLI)
+streamlit run app.py
+```
+
+Notes:
+
+- The UI uses the same environment variables as the CLI (`OPENROUTER_API_KEY` or `OPENAI_API_KEY`).
+- If no API key is set, disable the LLM toggles in the sidebar to rely on deterministic parsers.
+
 ### 2. Configure API Key
 
 Create a `.env` file in the project root:
